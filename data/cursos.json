@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "nombre": "Ingles 1",
+        "cant_alumnos": 50,
+        "aula": 109,
+        "habilitado": true
+    },
+    {
+        "id":2,
+        "nombre": "Ingenieria de Software 1",
+        "cant_alumnos": 33,
+        "aula": 216,
+        "habilitado": true
+    },
+    {
+        "id":3,
+        "nombre": "Base de Datos 1",
+        "cant_alumnos": 52,
+        "aula": 111,
+        "habilitado": true
+    }
+]
